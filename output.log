@@ -1,0 +1,9 @@
+[INFO] 2018-07-11 14:12:14.441 [main] [com.gwg.demo.config.RabbitMQConfig]49 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-11 14:12:15.058 [main] [com.gwg.demo.sender.HelloSender]25 - rabbitTemplate :org.springframework.amqp.rabbit.core.RabbitTemplate@6f7923a5 
+[INFO] 2018-07-11 14:12:15.059 [main] [com.gwg.demo.sender.HelloSender]27 - Sender : hello gwg Wed Jul 11 14:12:15 CST 2018 
+[INFO] 2018-07-11 14:13:15.971 [main] [com.gwg.demo.config.RabbitMQConfig]49 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-11 14:13:16.436 [main] [com.gwg.demo.sender.HelloSender]25 - rabbitTemplate :org.springframework.amqp.rabbit.core.RabbitTemplate@6f7923a5 
+[INFO] 2018-07-11 14:13:16.436 [main] [com.gwg.demo.sender.HelloSender]27 - Sender : hello gwg Wed Jul 11 14:13:16 CST 2018 
+[INFO] 2018-07-11 14:20:20.739 [main] [com.gwg.demo.config.RabbitMQConfig]49 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-11 14:20:21.188 [main] [com.gwg.demo.sender.HelloSender]25 - rabbitTemplate :org.springframework.amqp.rabbit.core.RabbitTemplate@41005828 
+[INFO] 2018-07-11 14:20:21.188 [main] [com.gwg.demo.sender.HelloSender]27 - Sender : hello gwg Wed Jul 11 14:20:21 CST 2018 

@@ -1,0 +1,17 @@
+#Spring+RabbitMQ注解方式配置说明
+在这里我在rabbitmq服务器上已经使用命令创建了交换器，队列，以及交换器与队列的绑定关系
+因此就不在需要再创建AmqpAdmin，Exchange(交换器),Queue(队列),Binding(交换器与队列绑定关系)了,
+如创建了，则会尝试自动生成
+
+
+后续
+2.Spring中可以使用XML文件和properties文件，但是如果想使用yml作为配置文件，需要做额外的配置
+https://www.cnblogs.com/Gyoung/p/8663395.html
+
+
+
+
+
+
+
+
