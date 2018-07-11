@@ -10,7 +10,8 @@ https://www.cnblogs.com/Gyoung/p/8663395.html
 
 
 
-
+关于RabbitMQ以及RabbitMQ和Spring的整合
+https://www.cnblogs.com/s648667069/p/6401463.html
 
 
 
